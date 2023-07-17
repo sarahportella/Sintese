@@ -1,0 +1,53 @@
+header {
+    background-color: hsl(133, 31%, 94%);
+}
+h1 {
+    color: rgb(76, 121, 76);
+    text-align: center;
+h2 {
+    color: rgb(76, 121, 76);
+    font-family: verdana;
+    font-size: 60px; 
+}
+}
+
+
+ main {
+    background-color: rgba(126, 165, 132, 0.493);
+}
+
+.plantas {
+    margin-right: 20px;
+    flex-direction: row;
+    p { 
+    font-family: verdana;
+    }
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+  }
+
+  img {
+    width: 30%; 
+    height: auto; 
+}
+
+#espada {
+    width: 50%;  ;
+}
+
+#costela {
+    width: 25%;  ;
+}
+
+footer {
+    background-color: hsl(133, 31%, 94%);
+}
+p {
+    font-family: verdana;
+  }    
